@@ -3,7 +3,9 @@
   -> Feito em Python e não requer outras bibliotécas (recomendado usar a versão 3.8)
   
   -> Referência da documentação oficial do Banco Santander Brasil
+    
     * Constrói a linha conforme a especificação do Santander
+    
     ** Possível revalidar a linha com as funções disponíveis
 
 ## Construtor de linha
