@@ -24,4 +24,4 @@ from ValidateDigitCode import verifyTicketCode
   - A linha de código de barras do Santander possui 4 sequências numéricas que possui um dígito validador e essa função faz um cálculo simples para definir o dígito de cada bloco.
 
 from ValidateDigitCode import verifyTicketCode
-  - Calcula o dígito que é gerado sobre a definição do código de barras e inserido na linha digitável (5º digito verificador).
+  - Calcula o dígito que é gerado sobre a definição do código de barras e inserido na linha digitável (5º dígito verificador ligado ao código de barras).
