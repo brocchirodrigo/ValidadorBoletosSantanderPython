@@ -8,10 +8,10 @@
 ## Construtor de linha
 
 - Executar o main.py
-  - Passar a data de vencimento sendo ano (3 dígitos)
+  - Passar a data de vencimento sendo ano (4 dígitos), mês (2 dígitos) e dia (2 dígitos) => 2020-03-21
   - Valor como texto separado apenas por ponto na casa de centavos (99999.99)
   - O cedente (que são os últimos 6 dígitos do convênio Santander)
-  - Por último os 12 dígitos do nosso número (não precisa passar o dígito do nosso número, o código calcula e gera para você!).
+  - Por último os 12 dígitos do nosso número (não precisa passar o 13º dígito do nosso número, o código calcula e gera o dígito verificador).
 
 ** Como resultado será gerada a linha digitável e o código de barras Santander.
 
